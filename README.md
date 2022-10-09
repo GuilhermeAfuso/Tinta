@@ -1,0 +1,2 @@
+# Tinta
+Parede tinta.
